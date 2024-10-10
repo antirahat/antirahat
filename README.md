@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/ramamun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramamun" height="30" width="40" /></a>
 <a href="https://fb.com/ramamun.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramamun.20" height="30" width="40" /></a>
 <a href="https://instagram.com/dhrub0_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhrub0_" height="30" width="40" /></a>
-<a href="[https://medium.com/rahatdhrubo](https://medium.com/@rahatdhrubo)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rahatdhrubo" height="30" width="40" /></a>
+<a href="https://medium.com/@rahatdhrubo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rahatdhrubo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
