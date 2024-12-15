@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ramamun/](https://www.linkedin.com/in/ramamun/)
 
-- ⚡ Fun fact **I know Sharlock Holmes**
+- ⚡ Fun fact **I know a lot of quotes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
